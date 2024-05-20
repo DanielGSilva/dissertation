@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: c455f6b1b3fcc004aa4b862b62e70cfd
+  - enabled: 1
+    path: Assets/Scenes/Results.unity
+    guid: 33e17327fe828964cbef0501169444bf
+  - enabled: 1
+    path: Assets/Scenes/DrawTrianglesAnimation.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Sandbox.unity
+    guid: d0a1a873de27e1d40b77a0d1a5d848f5
+  - enabled: 1
+    path: Assets/Scenes/TriangleQuest1.unity
+    guid: c1504b1663e06ad47be6b9c3b264d9c0
+  - enabled: 1
+    path: Assets/Scenes/TriangleQuest2.unity
+    guid: eed3c849e2b75d443a70849f425352eb
+  - enabled: 1
+    path: Assets/Scenes/TriangleQuest3.unity
+    guid: b4478924e12958b429e7aa4ba09805dd
+  - enabled: 1
+    path: Assets/Scenes/SkillTree.unity
+    guid: 3af702aab60879f4ea1de5f3d79a70cb
+  m_configObjects: {}
